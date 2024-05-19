@@ -9,7 +9,7 @@ export default function Navbar() {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNav">
-                    <ul className="navbar-nav ml-auto">
+                    <ul className="navbar-nav ml-auto nav-ul">
                         <li className="nav-item active">
                             <a className="nav-link" href="#">Login</a>
                         </li>

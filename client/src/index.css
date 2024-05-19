@@ -18,3 +18,20 @@ code {
 .nav-link{
   color: rgb(161, 6, 6)!important;
 }
+h1{
+  font-size: 20px !important;
+}
+
+.flex-container{
+  display: flex!important;
+}
+
+.btn{
+  background-color: red!important;
+  color: white!important;
+}
+
+select{
+  box-shadow: none !important;
+  border-color: black !important;
+}
